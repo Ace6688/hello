@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="28.2.9" pages="2">
+  <diagram name="第 1 页" id="n7FAgn-fn0VRslNS3_MU">
+    <mxGraphModel dx="1694" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="890" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="840" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-1" value="AN解析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-2" value="邮件内容解析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-3" value="换单服务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="414" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-4" value="邮箱管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-5" value="hbl信息管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-6" value="换单任务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-9" value="邮件同步" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-10" value="用户管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-11" value="AN解析结果管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-12" value="登陆" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-13" value="api鉴权&lt;br&gt;ak-sk" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-17" value="mysql" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-18" value="oss" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-19" value="llm" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-23" value="邮件管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-25" value="换单记录管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-26" value="api调用管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bNK7CwXZMVH9OWhrQ32k-27" target="bNK7CwXZMVH9OWhrQ32k-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-27" value="hbl信息管理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="970" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-28" value="换单任务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bNK7CwXZMVH9OWhrQ32k-30" target="bNK7CwXZMVH9OWhrQ32k-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-30" value="api调用" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="970" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-34" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-35" value="邮件内容解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-36" value="AN解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="530" as="sourcePoint" />
+            <mxPoint x="880" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bNK7CwXZMVH9OWhrQ32k-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vi1C3RAMIGwrgpuseJ3b" name="第 2 页">
+    <mxGraphModel dx="457" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
