@@ -76,18 +76,6 @@
         <mxCell id="bNK7CwXZMVH9OWhrQ32k-30" value="api调用" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="970" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bNK7CwXZMVH9OWhrQ32k-34" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bNK7CwXZMVH9OWhrQ32k-35" value="邮件内容解析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1780" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bNK7CwXZMVH9OWhrQ32k-36" value="AN解析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1980" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bNK7CwXZMVH9OWhrQ32k-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2210" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
